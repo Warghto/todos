@@ -82,7 +82,7 @@ li button {
 }
 
 li button.edit {
-  margin-right: 10px;
+  margin-left: 10px;
   background-color: #ff9933;
   border-color: #ff9933;
 }
@@ -93,6 +93,7 @@ li button.edit:hover {
 }
 
 li button.delete {
+  margin-right: 10px;
   background-color: #cc0000;
   border-color: #cc0000;
 }
